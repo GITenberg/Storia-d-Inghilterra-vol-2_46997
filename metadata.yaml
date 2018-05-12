@@ -1,9 +1,13 @@
 _repo: Storia-d-Inghilterra-vol-2_46997
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Emiliani-Giudici, Paolo
     gutenberg_agent_id: '44087'
     url: http://www.gutenberg.org/2009/agents/44087
+covers:
+- cover_type: archival
+  image_path: 46997-h/images/cover.jpg
 creator:
   author:
     agent_name: Macaulay, Thomas Babington Macaulay, Baron
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/443
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46997#Storia-d-Inghilterra-vol-2
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2014-09-29'
 gutenberg_type: Text
